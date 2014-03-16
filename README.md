@@ -4,13 +4,16 @@ ROME
 0 A.D. Mod dedicated to Rome, targeting especially the Roman Republic.
 
 
-A mod based around the civilization Rome and in honor of Rome.
+This modification pack will contain roman-specific units, buildings and special effects such as Collosseum and Gladiators, flooding it for naval battle reenactments. It will bring an Aquaduct water transportation system and digging through Mountains and Earth. You may build tunnels if you are besieged and have run out of food.
 
-Utilizing the pyrogenesis engine of 0 A.D. this mod is orintated as a realism and simulation for the game. 
+All this will center around the ancient civilization Rome and in honor of Rome's ingenuity.
+
+Extending the pyrogenesis engine of 0 A.D. this mod is orientated to strive for realism, making it possible to be even suitable for historical visualisation (like battle reenactment) and simulation.
+
 Whilst being content with what the 0 A.D. team has made thus far, there's no need to reinvent their work, but only 
-to add vast amounts of extras such as building, new units, and indeed a whole lot of new gameplay features which will center around a Senate in the game. 
+to add vast amounts of extras such as buildings, new units, and indeed a whole lot of new gameplay features which will center around a political system embodied by the Senate.
 
-To bring the senate to live we have started to developt a hybrid AI (artificial intelligence) that lives along with a human player.
+To bring the senate to live we have started to develop an hybrid AI (artificial intelligence) that lives along with a human player.
 
 The Senate
 ----
@@ -40,7 +43,7 @@ This new AI implies the introduction of at least the following features:
 
 
 Goals:
-* Those changes though severe must be compatible with the current mainstream 0AD simulation. => Keep it additive by extensions of existing classes instead of changing them. (restraint from refactoring, simply ~don't~~ use if you don't like how it's done in the trunk simulation version).
+* Those changes though severe must be compatible with the current mainstream 0AD simulation. => Keep it additive by extensions of existing classes instead of changing them. (restraint from refactoring, simply ~~don't~~ use if you don't like how it's done in the trunk simulation version).
 * Split new features into as much as is possible individual parts. (may be restructured and split at a later point.)
 
 
